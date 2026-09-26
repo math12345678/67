@@ -54,3 +54,8 @@ button {
     padding: 10px 20px;
     cursor: pointer;
 }
+
+#linkedin-logo {
+    width: 100px;
+    height: 100px;
+}
